@@ -23,6 +23,7 @@ I'm a software engineer at **DCKAP**, working on an ERP-first integration platfo
 |---|---|
 | [**Forwarder Gem**](https://forwardergem.foldwings.com/) | Telegram forwarding SaaS. Rule-based filters, Bot and Hybrid modes, your own posting bots, Razorpay billing. |
 | [**Pikavolt**](https://pikavolt.foldwings.com/) | Telegram affiliate deals SaaS. Scan real deals, Generate affiliate links, Post in multiple channels, Works with Amazon, Flipkart, Meesho. |
+| [**Crowdory**](https://crowdory.foldwings.com/) | Telegram request accept SaaS. |
 | **Oculer.video** | AI text-to-video platform. Dashboard, auth and billing services. |
 | **Voice calling agent** | Real-time conversational AI over WebSockets and LiveKit. |
 | **Aasp.ai** | AI website builder with one-click deploy. |
